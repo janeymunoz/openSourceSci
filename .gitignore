@@ -1,0 +1,5 @@
+.stack-work/
+.DS_Store
+**/wip
+_site/
+_cache/
